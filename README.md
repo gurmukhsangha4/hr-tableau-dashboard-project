@@ -10,7 +10,6 @@
 * **Data:** Synthetic HR CSV (1,500 rows, 25 columns) generated with Faker + manual tweaks.
 * **Visuals:** KPI tiles, donut attrition breakdown, cohort heat‑map, salary box‑plots, and filterable line charts.
 
-![dashboard-preview](assets/hr_dashboard_preview.png)
 
 ---
 
